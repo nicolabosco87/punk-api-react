@@ -8,7 +8,6 @@ export default () => {
 
   console.log("API HAS BEEN CALLED");
 
-
   return new Promise((resolve, reject) => {
 
     setTimeout(() => {
